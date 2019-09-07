@@ -6,3 +6,7 @@
 
 # Gradle Project Settings
 build
+
+# Gradle Wrapper Settings
+.gradle
+!gradle-wrapper.jar
